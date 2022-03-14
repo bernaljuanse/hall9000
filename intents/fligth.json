@@ -1,0 +1,32 @@
+{
+  "name": "fligth",
+  "utterances": {
+    "es": [
+      "Quiero ir de [bogota](FromCity) a [medellin](Tocity)",
+      "quiero viajar a [medellin](Tocity)",
+      "vuelos a [bogota](Tocity)",
+      "volar"
+    ]
+  },
+  "slots": [
+    {
+      "id": "p6XQyZbziUH4SrBLNbvZ6",
+      "name": "FromCity",
+      "entities": [
+        "ciudad"
+      ],
+      "color": 1
+    },
+    {
+      "id": "sueGGlEOAecr21Jq8hM0c",
+      "name": "Tocity",
+      "entities": [
+        "ciudad"
+      ],
+      "color": 2
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

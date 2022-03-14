@@ -1,0 +1,61 @@
+{
+  "locked": false,
+  "disabled": false,
+  "private": false,
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "",
+    "coverPictureUrl": ""
+  },
+  "$schema": "../../bot.config.schema.json",
+  "description": "",
+  "active": true,
+  "version": "12.26.10",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0",
+  "imports": {
+    "modules": [],
+    "incomingMiddleware": [],
+    "outgoingMiddleware": [],
+    "contentTypes": [
+      "builtin_action-button",
+      "builtin_audio",
+      "builtin_card",
+      "builtin_carousel",
+      "dropdown",
+      "builtin_file",
+      "builtin_image",
+      "builtin_location",
+      "builtin_single-choice",
+      "builtin_text",
+      "builtin_video"
+    ]
+  },
+  "dialog": {
+    "timeoutInterval": "5m"
+  },
+  "logs": {
+    "expiration": "1 week"
+  },
+  "defaultLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "id": "hall9000",
+  "name": "hall9000",
+  "pipeline_status": {
+    "current_stage": {
+      "id": "prod",
+      "promoted_on": "2022-03-07T19:55:01.635Z",
+      "promoted_by": "jusebemas@gmail.com"
+    }
+  },
+  "messaging": {
+    "id": "54e7f1ac-0b8c-4f36-ade6-5f9976db4a8d",
+    "token": "9d089711-a098-4998-91af-f60047a2fe5d.JMr3H86sco0td5F/ZEV8tOeLcTPyXfnBxCArpKC3XdqNBjDNW0PN7l4WUA4oUYQB39WVpzsbQQxwOvoVG5phGUxo"
+  }
+}

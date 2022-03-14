@@ -1,0 +1,69 @@
+[
+  {
+    "id": "builtin_text-7maIeU",
+    "formData": {
+      "text$es": "Hola soy tu asistente virtual, en que te puedo ayudar",
+      "markdown$es": true,
+      "typing$es": true,
+      "variations$es": []
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T20:00:14.708Z",
+    "modifiedOn": "2022-03-07T21:07:41.298Z"
+  },
+  {
+    "id": "builtin_text-nVqHOu",
+    "formData": {
+      "text$es": "hola, ¿En que puedo ayudarte?",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T21:11:02.247Z",
+    "modifiedOn": "2022-03-07T21:11:02.247Z"
+  },
+  {
+    "id": "builtin_text-Rymf-C",
+    "formData": {
+      "text$es": "no te entiendo",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T21:17:45.123Z",
+    "modifiedOn": "2022-03-07T21:17:45.123Z"
+  },
+  {
+    "id": "builtin_text-tr-TKN",
+    "formData": {
+      "text$es": "escribe el nombre de la cuidad origen",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T21:43:29.462Z",
+    "modifiedOn": "2022-03-07T21:45:14.351Z"
+  },
+  {
+    "id": "builtin_text-08PqKB",
+    "formData": {
+      "text$es": "ingrese cuidad destino",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T21:49:54.369Z",
+    "modifiedOn": "2022-03-07T21:49:54.369Z"
+  },
+  {
+    "id": "builtin_text-JU3zoh",
+    "formData": {
+      "text$es": "Listo, te he reservado un ticker de {{temp.FromCity}} a {{temp.ToCity}}",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-03-07T21:55:51.316Z",
+    "modifiedOn": "2022-03-07T21:55:51.316Z"
+  }
+]

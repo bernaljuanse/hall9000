@@ -1,0 +1,23 @@
+{
+  "id": "ciudad",
+  "name": "ciudad",
+  "type": "list",
+  "occurrences": [
+    {
+      "name": "bogota",
+      "synonyms": []
+    },
+    {
+      "name": "medellin",
+      "synonyms": []
+    },
+    {
+      "name": "Barranquilla",
+      "synonyms": []
+    }
+  ],
+  "sensitive": false,
+  "fuzzy": 0.8,
+  "examples": [],
+  "pattern": ""
+}
